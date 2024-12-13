@@ -1,1 +1,1 @@
-# jossy.gethub.io
+# jossy
